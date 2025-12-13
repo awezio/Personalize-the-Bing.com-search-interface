@@ -4,7 +4,7 @@ This project provides a simple CSS customization for `bing.com` to **beautify th
 
 ### Preview
 
-![Result preview](image/README/1765598185596.png)
+![Result preview](https://raw.githubusercontent.com/awezio/Personalize-the-Bing.com-search-interface/refs/heads/main/images/edge_preview.jpg)
 
 ## Features
 
@@ -102,3 +102,4 @@ Extend the uploaded image to an aspect ratio of 10:1, keep consistent style, and
 ## License
 
 Licensed under the **MIT License**. See `LICENSE`.
+
