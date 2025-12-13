@@ -1,5 +1,9 @@
 ## Personalize the Bing.com Search Interface
 
+[![GitHub stars](https://img.shields.io/github/stars/awezio/Personalize-the-Bing.com-search-interface?style=social)](https://github.com/awezio/Personalize-the-Bing.com-search-interface/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/awezio/Personalize-the-Bing.com-search-interface)](https://github.com/awezio/Personalize-the-Bing.com-search-interface/issues)
+[![GitHub license](https://img.shields.io/github/license/awezio/Personalize-the-Bing.com-search-interface)](https://github.com/awezio/Personalize-the-Bing.com-search-interface/blob/main/LICENSE)
+
 This project provides a simple CSS customization for `bing.com` to **beautify the search page header** by replacing the `header#b_header` background image and tuning how it scales/crops.
 
 ### Preview
@@ -102,4 +106,5 @@ Extend the uploaded image to an aspect ratio of 10:1, keep consistent style, and
 ## License
 
 Licensed under the **MIT License**. See `LICENSE`.
+
 
